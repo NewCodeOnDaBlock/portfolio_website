@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/static/css/main.88a87cbc.chunk.css",
+    "main.js": "/static/js/main.85e57256.chunk.js",
+    "main.js.map": "/static/js/main.85e57256.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.3914f258.js",
+    "runtime-main.js.map": "/static/js/runtime-main.3914f258.js.map",
+    "static/js/2.76390a3e.chunk.js": "/static/js/2.76390a3e.chunk.js",
+    "static/js/2.76390a3e.chunk.js.map": "/static/js/2.76390a3e.chunk.js.map",
+    "static/js/3.4926b306.chunk.js": "/static/js/3.4926b306.chunk.js",
+    "static/js/3.4926b306.chunk.js.map": "/static/js/3.4926b306.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.88a87cbc.chunk.css.map": "/static/css/main.88a87cbc.chunk.css.map",
+    "static/js/2.76390a3e.chunk.js.LICENSE.txt": "/static/js/2.76390a3e.chunk.js.LICENSE.txt",
+    "static/media/1024px-Grey_close_x.svg.5ad8e7d5.png": "/static/media/1024px-Grey_close_x.svg.5ad8e7d5.png",
+    "static/media/Calorie count.794fe075.mp4": "/static/media/Calorie count.794fe075.mp4",
+    "static/media/Github_grey.001cac49.png": "/static/media/Github_grey.001cac49.png",
+    "static/media/Learning_Dash.0790f1bf.mp4": "/static/media/Learning_Dash.0790f1bf.mp4",
+    "static/media/MERN-logo.39d4f786.png": "/static/media/MERN-logo.39d4f786.png",
+    "static/media/Message_icon.71819aba.png": "/static/media/Message_icon.71819aba.png",
+    "static/media/RM.14bdcc03.png": "/static/media/RM.14bdcc03.png",
+    "static/media/Whale_op_MVP.c493c3e9.mp4": "/static/media/Whale_op_MVP.c493c3e9.mp4",
+    "static/media/codingdojo_logo.799a4e54.jpeg": "/static/media/codingdojo_logo.799a4e54.jpeg",
+    "static/media/js_css_html_logo_png.a031633e.png": "/static/media/js_css_html_logo_png.a031633e.png",
+    "static/media/kisspng-java-database-connectivity-mysql-computer-software-java-5ade3070c27192.6401127415245108327965.113bc732.png": "/static/media/kisspng-java-database-connectivity-mysql-computer-software-java-5ade3070c27192.6401127415245108327965.113bc732.png",
+    "static/media/my-profile.d1bd2726.jpeg": "/static/media/my-profile.d1bd2726.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3914f258.js",
+    "static/js/2.76390a3e.chunk.js",
+    "static/css/main.88a87cbc.chunk.css",
+    "static/js/main.85e57256.chunk.js"
+  ]
+}
