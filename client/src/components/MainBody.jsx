@@ -237,7 +237,7 @@ const MainBody = (props) => {
                     <button onClick={showFillOutForm}>Get In Touch!</button>
                     <p><b>More..</b><br></br><br></br>
                         Extensive knowledge of responsive design principles from mobile to desktop utilizing the MERN Stack, and even some Java + SQL  and more!..
-                        My 5+ years experience has given me first hand understanding of consumer psycology and decision making based on user experience, sale offers, function capabilities, and brand awareness.
+                        My 5+ years experience has given me first hand understanding of consumer psychology and decision making based on user experience, sale offers, function capabilities, and brand awareness.
                         I'm also a Full Stack Coding Dojo Boot Camp Graduate, For more info on my work history and experience, check out my <a href="https://www.linkedin.com/in/thebreakfastmarketingco/" target="_blank">LinkedIn Profile.</a></p>
                 </div>
                 <div>
