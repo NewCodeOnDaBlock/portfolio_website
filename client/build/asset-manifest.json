@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.88a87cbc.chunk.css",
+    "main.css": "/static/css/main.bcc42861.chunk.css",
     "main.js": "/static/js/main.2f81d9b2.chunk.js",
     "main.js.map": "/static/js/main.2f81d9b2.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.3914f258.js",
@@ -10,7 +10,7 @@
     "static/js/3.4926b306.chunk.js": "/static/js/3.4926b306.chunk.js",
     "static/js/3.4926b306.chunk.js.map": "/static/js/3.4926b306.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.88a87cbc.chunk.css.map": "/static/css/main.88a87cbc.chunk.css.map",
+    "static/css/main.bcc42861.chunk.css.map": "/static/css/main.bcc42861.chunk.css.map",
     "static/js/2.76390a3e.chunk.js.LICENSE.txt": "/static/js/2.76390a3e.chunk.js.LICENSE.txt",
     "static/media/1024px-Grey_close_x.svg.5ad8e7d5.png": "/static/media/1024px-Grey_close_x.svg.5ad8e7d5.png",
     "static/media/Calorie count.794fe075.mp4": "/static/media/Calorie count.794fe075.mp4",
@@ -28,7 +28,7 @@
   "entrypoints": [
     "static/js/runtime-main.3914f258.js",
     "static/js/2.76390a3e.chunk.js",
-    "static/css/main.88a87cbc.chunk.css",
+    "static/css/main.bcc42861.chunk.css",
     "static/js/main.2f81d9b2.chunk.js"
   ]
 }
